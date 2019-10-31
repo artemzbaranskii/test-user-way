@@ -1,0 +1,16 @@
+export const ICON_TYPES = {
+  animation: 'animation',
+  arrow: 'arrow',
+  bigCursor: 'bigCursor',
+  biggerText: 'biggerText',
+  contrasts: 'contrasts',
+  highlightLinks: 'highlightLinks',
+  keyboardNav: 'keyboardNav',
+  legibleFonts: 'legibleFonts',
+  logo: 'logo',
+  readPage: 'readPage',
+  settings: 'settings',
+  socialChat: 'socialChat',
+  tooltip: 'tooltip',
+  close: 'close',
+};
